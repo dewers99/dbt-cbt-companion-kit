@@ -77,7 +77,7 @@ minutes before nap. What got added: 'the whole day is ruined,' 'they never
 behave.'" Truth-check: "Yesterday at the park — did they behave then? So 'never'
 is the spiral talking, not the truth. A hard twenty minutes isn't a ruined day."
 Skill: self-soothe (step outside for fresh air, cold water on wrists) or ACCEPTS
-distraction. Close: "You're a good mom having a hard morning. Those are different
+distraction. Close: "You're a good parent having a hard morning. Those are different
 things." Offer prayer.
 
 **"If I hear one more cough I'm going to get sick." / "That rare side effect is
