@@ -17,7 +17,8 @@ concrete to bring to their therapist.
   logs together and celebrate honestly.
 
 ## The logs (in `companion-logs/`, user-controlled)
-Templates live in `templates/`. Four files:
+Templates live in `templates/` (named `*.template.md`). I copy each to
+`companion-logs/` on first use, dropping `.template` — four files:
 
 1. **`user-profile.md`** — the living intake record (see intake-and-adaptation).
    Updated openly, with dated notes.
