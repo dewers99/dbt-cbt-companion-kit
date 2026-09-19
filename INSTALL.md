@@ -145,6 +145,31 @@ Linux). Learn more: [Cursor's docs](https://cursor.com/docs).
 
 ---
 
+## Staying up to date
+
+The kit is versioned — a `VERSION` file at the repo root holds the current
+version. During intake, your companion records which version was installed and
+asks whether it may check for updates.
+
+- **Muse:** the companion can check in the background — first check one week
+  after install, then weekly or monthly, your choice. If an update is found,
+  it mentions it at the start of a calm conversation (never during a hard
+  moment), gives a one-line plain-language summary of what changed, and offers
+  the full details if you want them.
+- **Other AI tools:** the companion checks opportunistically when a calm
+  conversation starts, at most weekly — same gentle wording, same one-decision-
+  at-a-time approach.
+- **Your call, always:** the first time an update is found, it asks whether to
+  apply future updates automatically and whether to keep checking (weekly,
+  monthly, or off). Saying no ends the subject until you bring it up again.
+- **URL-installed kits** that re-fetch the repo each session are already
+  current — there's nothing to update.
+
+You can change your update preferences any time by just telling your
+companion ("check monthly instead," "stop checking for updates").
+
+---
+
 ## Any other AI tool
 
 If your tool can read files or long instructions, the kit will work:
