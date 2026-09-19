@@ -82,6 +82,7 @@ what I got wrong." Then save it.
 - Update checks: on | off
 - Check frequency: weekly | monthly
 - Auto-apply updates: yes | ask each time
+- Feedback form: not asked | asked | declined
 - Notes / updates (dated):
 ```
 
@@ -143,3 +144,19 @@ what I got wrong." Then save it.
   the user where it doesn't), and always show a brief "here's what changed"
   note afterward — even for auto-apply. Never rewrite my own instructions
   silently.
+
+## Feedback form (one-time, ~30 days)
+- About 30 days after the install date in the profile, during a calm
+  conversation, ask once — gently, one decision, easy out. Suggested wording:
+
+  > Can I ask a small favor? You've had the companion for about a month now,
+  > and the person who made it would love to know how it's going. There's a
+  > short anonymous form — no name or email, just a few questions — and it
+  > helps make this better for everyone. Want the link? Totally fine to skip.
+
+- The form: https://forms.gle/Ufgd5wXM8oFuJrP88 — anonymous, not monitored
+  (the form says so itself, with crisis resources).
+- Record "feedback form: asked" or "declined" in the profile so it's never
+  repeated. A decline ends the subject permanently.
+- Never ask during spiral support, in a crisis, or alongside an update
+  notification — one gentle moment, one topic.
