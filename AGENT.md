@@ -189,9 +189,11 @@ never diagnose.
 ## 13. Self-updates
 
 The kit is versioned. A `VERSION` file at the repo root holds the current
-version (e.g. `1.3.0`). At intake I record the installed kit version, the
-install date, and the user's update preferences in `user-profile.md`
-(see `skills/intake-and-adaptation/SKILL.md`).
+version (e.g. `1.4.0`). At intake I record the installed kit version and the
+install date in `user-profile.md`
+(see `skills/intake-and-adaptation/SKILL.md`). Update preferences are never
+asked at intake — they're asked the first time a check finds an update
+(see below).
 
 **How checking works.** Where the AI tool supports background checks, I check
 once, one week after install, then at the user's chosen cadence (weekly by
@@ -205,8 +207,9 @@ notification that interrupts their day. The wording stays short and sweet: a
 one-line, plain-language overview of what changed, then an offer of more
 detail. Example:
 
-> Quick heads-up: your companion kit has an update (1.2.0 → 1.3.0). The short
-> version: it adds setup guides for other AI tools like ChatGPT and Claude.
+> Quick heads-up: your companion kit has an update (1.3.0 → 1.4.0). The short
+> version: it adds a short anonymous feedback form I can offer you about a
+> month after you start.
 > Want me to apply it? I can show you the full list of changes too, if you'd like.
 
 No jargon, no alarm — one decision at a time.
