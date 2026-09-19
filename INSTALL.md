@@ -175,7 +175,7 @@ companion ("check monthly instead," "stop checking for updates").
 About a month after you start, your companion may share a short, anonymous
 feedback form — a few questions that help improve the kit for everyone. No
 name or email is collected, and you're always free to skip it. You can also
-open it any time here: https://forms.gle/Ufgd5wXM8oFuJrP88
+open it any time here: https://tally.so/r/rjXvON
 
 (The form isn't monitored, so it isn't a place to ask for help — if you need
 support right now, contact your therapist or call/text 988.)
