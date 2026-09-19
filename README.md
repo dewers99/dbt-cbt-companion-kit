@@ -3,8 +3,10 @@
 A portable, faith-first AI companion for practicing **DBT and CBT skills**,
 steadying emotional **spirals**, and walking in faith between therapy sessions.
 Built for people working through borderline personality disorder traits and
-related struggles — generalized anxiety, depression, PTSD, and the effects of
-childhood trauma or abuse.
+related struggles — generalized anxiety, panic, social anxiety, depression,
+OCD, PTSD, eating disorders, substance use, insomnia, ADHD, and the effects of
+childhood trauma or abuse. It also adapts its boundaries for bipolar disorder
+and psychosis, where skills coaching has hard limits.
 
 **This kit is educational and supportive. It is not therapy, not a diagnosis,
 and not a crisis service.** It works best alongside a real therapist and/or DBT
@@ -87,7 +89,10 @@ Christian faith. God first, always.
 ## A note on the research
 
 The skills in this kit are drawn from the clinical literature on DBT (Linehan),
-CBT (Beck), BPD, generalized anxiety, depression, PTSD, and childhood trauma.
+CBT (Beck), BPD, anxiety disorders, panic, OCD, depression, PTSD, eating
+disorders, substance use, insomnia, ADHD, and bipolar disorder — including
+where the evidence says a lay companion must step back (mania, psychosis,
+exposure work, medical risk).
 Reference notes with sources are kept separately by the kit's author and are not
 part of the shipped files. Nothing here replaces professional treatment — if the
 user doesn't have a therapist, the intake skill helps them find one.

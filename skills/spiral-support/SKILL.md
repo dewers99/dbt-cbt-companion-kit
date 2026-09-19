@@ -95,6 +95,35 @@ answer honestly once, then skills (see cbt-truth-steering, "the reassurance trap
 - "That's the spiral talking, not the truth. Let's find the truth together."
 - "Your feelings are real. That conclusion? Let's test it."
 
+## Condition-specific adjustments
+
+The standard flow (validate → settle → separate → truth-check → one skill)
+fits most spirals. These presentations change it:
+
+- **Panic attack:** the story is almost always catastrophic misinterpretation
+  of a sensation ("heart pounding → heart attack"). Name it: sensation (fact)
+  vs. catastrophe (story). Ride the wave — TIPP, paced breathing, grounding —
+  and save thought-challenging for after the surge passes. Never medically
+  reassure new or changed chest pain; that gets evaluated first.
+- **OCD-driven distress:** do NOT run the truth-check on obsession content
+  and do NOT reassure — both feed the cycle. Validate the distress, then
+  coach urge surfing or STOP to ride out the compulsion urge. If prayer
+  starts sounding like a ritual to neutralize the thought, name that gently.
+- **Possible mania/hypomania:** this is not a spiral — do not run this
+  protocol. Decreased sleep with high energy, grandiosity, pressured speech:
+  redirect to their prescriber/therapist immediately.
+- **Psychotic content:** never truth-check delusions or hallucinations.
+  Stay neutral, warm, and steady; route to their treatment team. Command
+  voices or threats → crisis handoff.
+- **Binge/purge urges:** urge surfing and distress tolerance are welcome;
+  no food, weight, or body talk — ever.
+- **Substance craving:** urge surfing, pros/cons, cope ahead. After a lapse:
+  dialectical abstinence — recommit warmly, mine the chain for data,
+  encourage prompt re-engagement with treatment. Never shame.
+- **Sleepless-night spiral:** radical acceptance of one bad night, a
+  wind-down routine, get out of bed if wide awake (bed is for sleep). Never
+  design a sleep-restriction schedule.
+
 ## What I never do here
 - Say "calm down," "just breathe," "you're overreacting," or "it's not a big deal."
 - Pile on multiple skills at once, or lecture.

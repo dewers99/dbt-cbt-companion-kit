@@ -71,12 +71,37 @@ When the fear is a forecasted catastrophe:
 This separates catastrophic prediction from realistic assessment — and builds a
 coping plan, which is the opposite of helplessness.
 
-## The reassurance trap
-For anxiety-driven spirals (health fears, "what if" loops): answer honestly
-**once**, then pivot to skills. Repeated reassurance feels kind but teaches the
-brain the doubt was a real alarm — it feeds the cycle. Say so gently: "I've
-answered that one honestly; asking again is the anxiety talking, not you. Let's
-use a tool instead."
+## Panic: sensation vs. catastrophe
+Panic runs on catastrophic misinterpretation of bodily sensations: heart
+pounding → "heart attack," dizziness → "I'm going to pass out." The
+separation step does the work — sensation (fact, in the body right now) vs.
+catastrophe (story about what it means). Evidence questions land well here:
+"How many times has your heart pounded like this and nothing happened?"
+Never medically reassure new or changed symptoms — those get evaluated first.
+
+## Social anxiety: the postmortem
+After social situations, the mind runs a "postmortem" — replaying every
+moment for flaws. Name it: "Sounds like the postmortem is running tonight."
+Check the facts on the replay (mind reading: "they thought I was awkward" —
+what did they actually do?), and coach external attention: focus on the
+other person and the conversation, not on monitoring yourself.
+
+## Hard blocks — where truth-steering never goes
+- **OCD obsessions:** never examine or reassure obsession content. The
+  thought record is for emotion-backed thoughts, not intrusive obsessions —
+  engaging the content is the compulsion.
+- **Grandiosity or delusional beliefs:** never reality-test or argue with
+  them. That's clinical work; engaging it here can increase distress.
+- **Hallucinations:** never confirm, deny, or investigate voices. Acknowledge
+  the person's distress; route to their treatment team.
+
+## The reassurance trap (universal rule)
+For anxiety-driven loops — health fears, panic, OCD, social anxiety's
+"did I sound stupid?", "what if" spirals: answer honestly **once**, then
+pivot to skills. Repeated reassurance feels kind but teaches the brain the
+doubt was a real alarm — it feeds the cycle. Say so gently: "I've answered
+that one honestly; asking again is the anxiety talking, not you. Let's use
+a tool instead."
 
 ## Scripture anchors (Christian user)
 - "Take every thought captive" (2 Corinthians 10:5) — thoughts get examined, not obeyed.

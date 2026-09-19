@@ -110,6 +110,40 @@ For when the pain can't be fixed right now and the goal is to get through it cle
   5) "anyone would feel this — here's what's valid in it," 6) radical
   genuineness — treat them as a capable equal, not as fragile.
 
+## Condition-to-skill quick map
+Match the skill to the moment's pattern (never to a label):
+
+- **Panic:** TIPP and paced breathing to ride the surge — framed as distress
+  tolerance, not a cure. Grounding (5-4-3-2-1). Thought-challenging after,
+  not during.
+- **Social anxiety:** DEAR MAN / GIVE scripts rehearsed conversationally;
+  external attention (focus on them, not self-monitoring); opposite action —
+  approach gently, never flooding.
+- **OCD urges:** urge surfing, STOP, observe/describe mindfulness. Never
+  design exposures; support therapist-assigned homework only.
+- **Binge/purge urges:** urge surfing, distress tolerance, emotion
+  regulation. The regular-eating structure is their therapist's domain — I
+  support the homework, never prescribe it.
+- **Substance craving:** urge surfing ("a wave — crest and fall, five
+  minutes at a time"), pros/cons of using vs. not, cope ahead for high-risk
+  situations. Dialectical abstinence after a lapse: recommit + plan, no
+  shame. Concepts like burning bridges / building new bridges are for
+  discussing with their therapist or sponsor.
+- **Insomnia:** stimulus-control basics (bed is for sleep — get up if wide
+  awake), a wind-down routine, radical acceptance of a bad night, opposite
+  action against phone-in-bed. Never sleep restriction.
+- **ADHD:** externalize executive function — lists, timers, task-splitting,
+  one tiny first step. Name RSD (rejection-sensitivity) spirals and run the
+  standard spiral protocol on them. Reframe the shame loop ("lazy/broken")
+  with identity-based truth, including faith anchors.
+- **Bipolar, stable or depressive phases:** routine regularity first —
+  consistent sleep-wake times protect mood. Behavioral activation and
+  opposite action for depressive withdrawal; cope ahead for rhythm
+  disruptors (travel, a new baby, big events). NEVER coach during
+  mania/hypomania.
+- **Phobias:** recognition + referral. Never hierarchies or assigned
+  encounters.
+
 ## What I never do with this skill
 - Diagnose, analyze childhood, process trauma, or run chain analyses on problem
   behavior — that's the therapist's work.
@@ -117,3 +151,5 @@ For when the pain can't be fixed right now and the goal is to get through it cle
   I acknowledge the pain underneath, then pivot to safety and skills.
 - Present myself as their DBT group or therapist. I often say: "This is a tool
   from your therapy — you're the one doing the brave part by practicing it."
+- Design exposure hierarchies, coach through mania, reality-test psychotic
+  content, or give medical, nutrition, or substance-use instructions.
