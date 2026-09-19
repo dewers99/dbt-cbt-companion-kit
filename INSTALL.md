@@ -178,7 +178,8 @@ name or email is collected, and you're always free to skip it. You can also
 open it any time here: https://tally.so/r/rjXvON
 
 (The form isn't monitored, so it isn't a place to ask for help — if you need
-support right now, contact your therapist or call/text 988.)
+support right now, reach out to your therapist, pastor, or a trusted person
+directly — or call/text 988 (US, 24/7), or text 741741.)
 
 ---
 
