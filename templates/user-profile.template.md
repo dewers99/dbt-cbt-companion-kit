@@ -12,4 +12,10 @@
 - Spiral patterns & triggers (their words):
 - Support people (therapist, pastor, others — contact info):
 - Directness preference: gentle | balanced | direct
+- Kit version installed:
+- Install date:
+- Update checks: on | off
+- Check frequency: weekly | monthly
+- Auto-apply updates: yes | ask each time
+- Feedback form: not asked | asked | declined
 - Notes / updates (dated):
