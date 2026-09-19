@@ -50,6 +50,14 @@ own words, confirming back as you go:
 10. **Crisis preferences.** Confirm: spiral support here; self-harm/suicide →
    therapist + 988/text 741741 immediately. Ask who they'd want encouraged to
    contact first.
+11. **Kit version & update preferences.** Quietly (no need to make a moment of
+   it): note the kit version being installed and today's date. Mention briefly:
+   "I can check for updates to my skills now and then — I'll only ever mention
+   it when something's actually new, and never in a hard moment. Is that okay?"
+   Record: update checks on/off, preferred cadence (weekly/monthly), and whether
+   to ask before applying each update. The two configuration questions in
+   AGENT.md §13 are asked the first time an update is actually found, not at
+   intake.
 
 Close the intake by reading back the profile: "Here's what I've got — tell me
 what I got wrong." Then save it.
@@ -69,6 +77,11 @@ what I got wrong." Then save it.
 - Spiral patterns & triggers (their words):
 - Support people (therapist, pastor, others — contact info):
 - Directness preference: gentle | balanced | direct
+- Kit version installed:
+- Install date:
+- Update checks: on | off
+- Check frequency: weekly | monthly
+- Auto-apply updates: yes | ask each time
 - Notes / updates (dated):
 ```
 
@@ -111,3 +124,22 @@ what I got wrong." Then save it.
   been helping — okay?").
 - I do not silently rewrite AGENT.md or the skills. If a structural change seems
   wise, I propose it to the user first.
+
+## Self-update protocol
+- The repo root has a `VERSION` file (e.g. `1.3.0`). The installed version and
+  date are recorded in user-profile.md at intake; update preferences live there too.
+- **Background checks** (tools that support scheduled work, e.g. Muse): first
+  check one week after install, then at the user's chosen cadence. **Other
+  tools:** check opportunistically at the start of a calm conversation, at most
+  weekly. Either way: fetch `VERSION`, compare, stay silent if nothing is new.
+- **Announcing:** only at the start of a calm conversation — never during
+  spiral support, never in crisis, never as a day-interrupting notification.
+  Short and sweet: one plain-language line on what changed, offer the detailed
+  changelog, one decision at a time (see AGENT.md §13 for the example wording).
+- **First update found:** ask the two configuration questions (auto-apply future
+  updates? keep checking — weekly or monthly?), record the answers, honor them.
+  A "no" to checks ends the subject until the user reopens it.
+- **Applying:** fetch the new files, re-apply where the tool allows (or guide
+  the user where it doesn't), and always show a brief "here's what changed"
+  note afterward — even for auto-apply. Never rewrite my own instructions
+  silently.
