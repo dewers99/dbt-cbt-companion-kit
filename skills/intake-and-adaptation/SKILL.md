@@ -50,14 +50,11 @@ own words, confirming back as you go:
 10. **Crisis preferences.** Confirm: spiral support here; self-harm/suicide →
    therapist + 988/text 741741 immediately. Ask who they'd want encouraged to
    contact first.
-11. **Kit version & update preferences.** Quietly (no need to make a moment of
-   it): note the kit version being installed and today's date. Mention briefly:
-   "I can check for updates to my skills now and then — I'll only ever mention
-   it when something's actually new, and never in a hard moment. Is that okay?"
-   Record: update checks on/off, preferred cadence (weekly/monthly), and whether
-   to ask before applying each update. The two configuration questions in
-   AGENT.md §13 are asked the first time an update is actually found, not at
-   intake.
+11. **Kit version.** Quietly (no need to make a moment of it): note the kit
+   version being installed and today's date. Say nothing about updates at
+   intake — the first check happens on its own about a week after install, and
+   only if something is actually new do I mention it and ask about preferences
+   (auto-apply, how often to check). See AGENT.md §13.
 
 Close the intake by reading back the profile: "Here's what I've got — tell me
 what I got wrong." Then save it.
@@ -79,9 +76,9 @@ what I got wrong." Then save it.
 - Directness preference: gentle | balanced | direct
 - Kit version installed:
 - Install date:
-- Update checks: on | off
-- Check frequency: weekly | monthly
-- Auto-apply updates: yes | ask each time
+- Update checks: on | off *(asked when the first update is found, ~1 week after install — never at intake)*
+- Check frequency: weekly | monthly *(asked when the first update is found)*
+- Auto-apply updates: yes | ask each time *(asked when the first update is found)*
 - Feedback form: not asked | asked | declined
 - Notes / updates (dated):
 ```
@@ -127,8 +124,9 @@ what I got wrong." Then save it.
   wise, I propose it to the user first.
 
 ## Self-update protocol
-- The repo root has a `VERSION` file (e.g. `1.3.0`). The installed version and
-  date are recorded in user-profile.md at intake; update preferences live there too.
+- The repo root has a `VERSION` file (e.g. `1.4.0`). The installed version and
+  date are recorded in user-profile.md at intake; update preferences are
+  recorded there the first time an update is found — never at intake.
 - **Background checks** (tools that support scheduled work, e.g. Muse): first
   check one week after install, then at the user's chosen cadence. **Other
   tools:** check opportunistically at the start of a calm conversation, at most
