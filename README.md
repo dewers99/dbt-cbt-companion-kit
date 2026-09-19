@@ -29,7 +29,10 @@ these files. They are designed to be shared.
 
 ## Installation
 
-**Option 1 — paste the repo URL (easiest):** just send your AI agent this message:
+Step-by-step setup instructions for Muse, ChatGPT, Claude, Microsoft Copilot,
+Google Gemini, Cursor, and any other AI tool: see **[INSTALL.md](INSTALL.md)**.
+
+**Quick version** — just send your AI agent this message:
 
 > Install this companion kit and start intake with me:
 > https://github.com/dewers99/dbt-cbt-companion-kit
