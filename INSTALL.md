@@ -29,8 +29,8 @@ it can fetch the kit straight from the public repository — nothing to
 download, nothing to upload.
 
 **Get Muse:** use it on the web at [muse.ai](https://muse.ai), or download the
-iOS app from the App Store or the Android app from Google Play. Learn more in
-[Muse's docs](https://muse.ai).
+iOS app from the App Store or the Android app from Google Play. Learn more at
+[muse.ai](https://muse.ai).
 
 **Set up the companion:**
 
@@ -148,8 +148,10 @@ Linux). Learn more: [Cursor's docs](https://cursor.com/docs).
 ## Staying up to date
 
 The kit is versioned — a `VERSION` file at the repo root holds the current
-version. During intake, your companion records which version was installed and
-asks whether it may check for updates.
+version. During intake, your companion records which version was installed.
+It doesn't ask about updates at intake — the first check happens on its own
+one week after install, and only if something is actually new does it mention
+it and ask your preferences.
 
 - **Muse:** the companion can check in the background — first check one week
   after install, then weekly or monthly, your choice. If an update is found,
