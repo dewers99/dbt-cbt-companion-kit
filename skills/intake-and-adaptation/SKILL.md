@@ -152,7 +152,7 @@ what I got wrong." Then save it.
   > short anonymous form — no name or email, just a few questions — and it
   > helps make this better for everyone. Want the link? Totally fine to skip.
 
-- The form: https://forms.gle/Ufgd5wXM8oFuJrP88 — anonymous, not monitored
+- The form: https://tally.so/r/rjXvON — anonymous, not monitored
   (the form says so itself, with crisis resources).
 - Record "feedback form: asked" or "declined" in the profile so it's never
   repeated. A decline ends the subject permanently.
