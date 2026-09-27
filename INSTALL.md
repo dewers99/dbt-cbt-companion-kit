@@ -2,8 +2,12 @@
 
 How to set up the **DBT/CBT Skills Companion Kit** in the AI tool of your
 choice. The kit is just text files — `AGENT.md` (the companion's persona and
-rules) plus the `skills/` folder (the DBT/CBT coaching library). Any AI tool
-that can follow a long set of instructions can run it.
+rules) plus the `skills/` folder (the DBT/CBT coaching library) and the
+`templates/` folder (blank templates for the user's profile and logs). Any AI
+tool that can follow a long set of instructions can run it.
+
+**The standing rule:** the companion never pretends it saved something it
+can't — without real persistence it says so plainly. No fake promises, ever.
 
 > **Safety note:** This kit is educational and supportive — not therapy, not a
 > diagnosis, not a crisis service. If you feel unsafe or have thoughts of
@@ -49,6 +53,11 @@ If you'd rather share the files directly, download the ZIP from the repo's
 **Code → Download ZIP** button and attach `AGENT.md` plus the `skills/` folder
 to the side chat instead.
 
+**Honest limits:** The persona persists per the platform's own capabilities.
+What your Muse AI can store (profile, logs) depends on the version you're
+using — check your tool's docs, or just ask your companion what it can
+actually keep. The companion will never pretend it saved something it can't.
+
 ---
 
 ## ChatGPT
@@ -90,6 +99,11 @@ The web version works at claude.ai. Learn more:
 3. Upload the five `skills/*/SKILL.md` files to the project's knowledge.
 4. Start a new chat in the project and say: *"Start intake with me."*
 
+**Honest limits:** Project knowledge persists across conversations, but each
+conversation still has a context limit — long threads can drop earlier
+details. Uploaded files live with the project; check your tool's docs for the
+current limits.
+
 ---
 
 ## Microsoft Copilot
@@ -125,6 +139,10 @@ web at gemini.google. Learn more:
 3. Upload the five `skills/*/SKILL.md` files as the Gem's knowledge.
 4. Open the Gem and say: *"Start intake with me."*
 
+**Honest limits:** A Gem keeps its instructions across sessions, but file
+handling and long-term storage vary by version and surface (app vs. web).
+Check your tool's docs — or ask the companion what it can actually save.
+
 ---
 
 ## Cursor and other coding agents
@@ -142,6 +160,21 @@ Linux). Learn more: [Cursor's docs](https://cursor.com/docs).
 2. Add them to your project's rules (e.g. `.muse/rules/`) so the agent loads
    the persona and coaching library.
 3. Ask it to start intake.
+
+---
+
+## Any other AI tool
+
+If your tool can read files or long instructions, the kit will work:
+
+1. Give the tool the full text of `AGENT.md` as its persona or system
+   instructions.
+2. Add each `skills/*/SKILL.md` as an additional instruction file or skill.
+3. Ask it to start intake.
+
+If you hit a snag, the tool's own help docs are the best next stop — these
+instructions were written for the general features of each platform, which
+change over time.
 
 ---
 
@@ -180,18 +213,3 @@ open it any time here: https://tally.so/r/rjXvON
 (The form isn't monitored, so it isn't a place to ask for help — if you need
 support right now, reach out to your therapist, pastor, or a trusted person
 directly — or call/text 988 (US, 24/7), or text 741741.)
-
----
-
-## Any other AI tool
-
-If your tool can read files or long instructions, the kit will work:
-
-1. Give the tool the full text of `AGENT.md` as its persona or system
-   instructions.
-2. Add each `skills/*/SKILL.md` as an additional instruction file or skill.
-3. Ask it to start intake.
-
-If you hit a snag, the tool's own help docs are the best next stop — these
-instructions were written for the general features of each platform, which
-change over time.

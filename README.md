@@ -44,7 +44,7 @@ no downloads, no uploads, no git needed. (This is why the repo is public.)
 **Code** button → **Download ZIP**, unzip it, and attach the files to your AI
 chat. (Git users: `git clone https://github.com/dewers99/dbt-cbt-companion-kit.git`.)
 
-**Option 3 — from a shared ZIP:** if someone sent you `dbt-companion-kit.zip`
+**Option 3 — from a shared ZIP:** if someone sent you `dbt-cbt-companion-kit.zip`
 directly, unzip it and attach the files to your AI chat.
 
 ## Quick start
