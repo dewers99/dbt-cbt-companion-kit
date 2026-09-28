@@ -4,6 +4,10 @@
 
 (nothing yet)
 
+## [1.6.3] — 2026-09-28
+
+- **Feedback form standardization.** The Tally feedback form moves to the cross-kit standard: tenure-neutral summary, 7 questions in the standard order (adds a capabilities multi-select), hints on every open-text question, standardized thank-you with the 988 crisis note kept. New AGENT.md section 14 defines the companion behavior: the form is offered once about a month after starting, at a calm moment, and any time the user mentions feedback.
+
 ## [1.6.2] — 2026-09-28
 
 - **Removed `.gitignore`.** The repo is a distributable package (download, install, update) — not a working copy. The companion creates `companion-logs/` in the user's own environment, so nothing in the kit needs git-ignored.
