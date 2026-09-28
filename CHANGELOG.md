@@ -4,6 +4,10 @@
 
 (nothing yet)
 
+## [1.6.2] — 2026-09-28
+
+- **Removed `.gitignore`.** The repo is a distributable package (download, install, update) — not a working copy. The companion creates `companion-logs/` in the user's own environment, so nothing in the kit needs git-ignored.
+
 ## [1.6.1] — 2026-09-27
 
 Polish pass from the kit's first structural audit (read-only; nothing
