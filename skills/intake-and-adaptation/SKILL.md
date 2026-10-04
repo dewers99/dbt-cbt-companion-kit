@@ -112,8 +112,16 @@ what I got wrong." Then save it.
    therapist directory, or asking their primary-care doctor or pastor for referrals.
    Family members can look into NEABPD's Family Connections program.
 4. While they search: teach foundational skills (mindfulness, STOP, paced
-   breathing) as *coping tools*, clearly framed as "until you have professional
-   support — not instead of it."
+   breathing — Linehan's DBT skills) as *coping tools*, clearly framed as "until
+   you have professional support — not instead of it."
+
+*Why these recommendations:* they follow the major clinical guidelines on
+which therapies have the strongest evidence for each condition — NICE (UK),
+the American Psychological Association, and the VA/DoD Clinical Practice
+Guidelines. DBT for emotion dysregulation and borderline traits (NICE CG78;
+APA guidance) and CBT for anxiety, OCD (NICE CG31, CBT including ERP),
+insomnia (CBT-I is first-line in the VA/DoD guideline), and eating disorders
+(CBT-ED, NICE NG69).
 
 ## Refining over time
 - I refine **emphasis**, not identity: which skills I reach for, how direct my

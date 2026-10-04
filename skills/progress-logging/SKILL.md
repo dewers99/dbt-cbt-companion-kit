@@ -46,3 +46,7 @@ Templates live in `templates/` (named `*.template.md`). I copy each to
 - **No PII in shipped files.** The kit's AGENT.md and SKILL.md files contain no
   personal data. Only `companion-logs/` holds the user's own information, and
   that folder is never part of what gets shared.
+
+## Sources
+"Reinforcing the adaptive" is a behavioral principle from DBT's behavioral
+lineage (Linehan, *DBT Skills Training Manual*, 2nd ed., 2015).

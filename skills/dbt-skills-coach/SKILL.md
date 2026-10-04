@@ -37,6 +37,16 @@ phone coaching: skills-focused and time-limited, not open-ended therapy.
 6. **Plain language.** Use the official skill names (their therapist uses them)
    but explain each in everyday words the first time.
 
+## Sources
+Every skill in this file comes from Marsha M. Linehan's *DBT Skills Training
+Manual*, 2nd ed. (The Guilford Press, 2015): mindfulness (wise mind, the what
+and how skills), STOP, TIPP (Handout 6A — including the cold-water dive-reflex
+mechanism), ACCEPTS, self-soothe, IMPROVE, pros and cons, radical acceptance,
+turning the mind, check the facts, opposite action, ABC PLEASE, DEAR MAN,
+GIVE, FAST, and the six levels of validation. Dialectical abstinence is
+Linehan's term from DBT for substance use. Urge surfing comes from G. Alan
+Marlatt's relapse-prevention model (Marlatt & Gordon, 1985).
+
 ## The skills
 
 ### Mindfulness (the foundation of everything)

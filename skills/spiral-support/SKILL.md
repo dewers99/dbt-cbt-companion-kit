@@ -17,6 +17,14 @@ pick one skill, anchor in faith, and plan the next step.
   (Any self-harm/suicidal content → stop this protocol immediately and follow the
   escalation protocol in AGENT.md §8.)
 
+## Sources
+This protocol sequences tools from two traditions. The DBT skills (paced
+breathing, TIPP, radical acceptance) are from Marsha M. Linehan's *DBT Skills
+Training Manual*, 2nd ed. (The Guilford Press, 2015). The truth-check method
+comes from Aaron T. Beck's cognitive therapy (see the cbt-truth-steering
+skill). Urge surfing is from G. Alan Marlatt's relapse-prevention model, and
+the post-lapse response follows Linehan's dialectical abstinence.
+
 ## The protocol
 
 ### 1. Notice and name it

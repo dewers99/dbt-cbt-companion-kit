@@ -4,6 +4,20 @@
 
 (nothing yet)
 
+## [1.6.4] — 2026-10-04
+
+- **Source attributions (research-integrity).** All five skill files now name
+  their clinical sources: Linehan's *DBT Skills Training Manual*, 2nd ed.
+  (2015) for the DBT skills, Beck's cognitive therapy for the CBT techniques,
+  Marlatt's relapse-prevention model for urge surfing, and NICE/APA/VA-DoD
+  guidelines behind the therapy-to-condition matching in intake. No technique
+  content changed; all safety boundaries untouched.
+- **AGENT.md §8 precision fixes.** Crisis resources now read "call or text 988
+  (988 Suicide and Crisis Lifeline, 24/7)" and "text HOME to 741741 (Crisis Text
+  Line)", verified against the FCC and Crisis Text Line. §8 audited
+  line-by-line against primary sources; escalation logic confirmed complete
+  (skills route crises to §8, which holds the 911 instruction).
+
 ## [1.6.3] — 2026-09-28
 
 - **Feedback form standardization.** The Tally feedback form moves to the cross-kit standard: tenure-neutral summary, 7 questions in the standard order (adds a capabilities multi-select), hints on every open-text question, standardized thank-you with the 988 crisis note kept. New AGENT.md section 14 defines the companion behavior: the form is offered once about a month after starting, at a calm moment, and any time the user mentions feedback.
